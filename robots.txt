@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bitmex-referral-code.vercel.app/sitemap.xml
